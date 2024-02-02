@@ -1,0 +1,7 @@
+C:\Users\User\Documents\.Lukacs Bence\proj\zene proj\zene proj\bin\Debug\zene proj.exe.config
+C:\Users\User\Documents\.Lukacs Bence\proj\zene proj\zene proj\bin\Debug\zene proj.exe
+C:\Users\User\Documents\.Lukacs Bence\proj\zene proj\zene proj\bin\Debug\zene proj.pdb
+C:\Users\User\Documents\.Lukacs Bence\proj\zene proj\zene proj\obj\Debug\zene proj.csproj.AssemblyReference.cache
+C:\Users\User\Documents\.Lukacs Bence\proj\zene proj\zene proj\obj\Debug\zene proj.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\.Lukacs Bence\proj\zene proj\zene proj\obj\Debug\zene proj.exe
+C:\Users\User\Documents\.Lukacs Bence\proj\zene proj\zene proj\obj\Debug\zene proj.pdb

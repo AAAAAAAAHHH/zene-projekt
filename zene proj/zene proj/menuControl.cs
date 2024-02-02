@@ -73,14 +73,14 @@ namespace proj
                     case ConsoleKey.DownArrow:
                     {
                         // Ha van felfelé hely akkor felfelé megy
-                        if (currentMenu == menu.Length - 1)
+                        if (currentMenu != menu.Length - 1)
                         {
-                            currentMenu = 0;
+                            currentMenu += 1;
                         }
                         // Ha nincs, akkor visszaugrik a menü aljára
                         else
                         {
-                            currentMenu += 1;
+                            currentMenu = 0;
                         }
                         break;
                     }

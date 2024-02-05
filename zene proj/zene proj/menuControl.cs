@@ -30,10 +30,8 @@ namespace proj
 
             do
             {
-                // A konozol törlése, hogy frissíteni tudja
-                Console.Clear();
-
-                Console.WriteLine();
+                // A kurzor pozíciójának visszállítása, hogy az előző szöveget felülírja
+                Console.SetCursorPosition(0, 1);
 
                 // A menüpontok kiíratása
                 for (int i = 0; i < menu.Length; i++)

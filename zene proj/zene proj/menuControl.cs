@@ -8,7 +8,7 @@ namespace proj
 {
     internal class menuControl
     {
-        public void Menu()
+        public int Menu()
         {
             // A menüpontok neve
             string[] menu =
@@ -24,6 +24,9 @@ namespace proj
 
             // A jelenlegi menüpont indexe
             int currentMenu = 0;
+
+            // Eltünteti a kurzort
+            Console.CursorVisible = false;
 
             do
             {
@@ -86,8 +89,9 @@ namespace proj
                     }
                 }
 
-            } while (keyInfo.Key != ConsoleKey.Escape);
+            } while (keyInfo.Key != ConsoleKey.Enter);
 
+            return currentMenu;
         }
     }
 }

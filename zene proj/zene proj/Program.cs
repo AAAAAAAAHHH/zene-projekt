@@ -13,11 +13,14 @@ namespace zene_proj
         {
             menuControl menu = new menuControl();
 
-            menu.Menu();
+            int menuIndex = menu.Menu();
+
+            Console.Clear();
+
+            Console.WriteLine($"\nKiválsztott menüpont: {menuIndex+1}");
 
 
             Console.ReadKey();
-
         }
     }
 }

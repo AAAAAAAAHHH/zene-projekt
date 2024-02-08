@@ -3,20 +3,50 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using zene_proj;
 
 namespace proj
 {
     internal class menuControl
+
     {
+        public void returnToMenu()
+        {
+            forras forras = new forras();
+
+            ConsoleKeyInfo keyInfo;
+            keyInfo = Console.ReadKey();
+            if (keyInfo.Key == ConsoleKey.Backspace)
+            {
+                
+
+                int menuIndex = this.Menu();
+
+                Console.Clear();
+
+                switch (menuIndex)
+                {
+                    case 0:
+                        break;
+
+                    case 1:
+                        break;
+
+                    case 2:
+                        forras.kiir();
+                        break;
+                }
+            }
+
+        }
         public int Menu()
         {
             // A menüpontok neve
             string[] menu =
             {
-                "Menüpont 1",
-                "Menüpont 2",
-                "Menüpont 3",
-                "Menüpont 4",
+                "Zene ajánlás",
+                "Műsorlista ajánlás",
+                "Zenék megtekintése",
             };
 
             // Ez a váltzó tárolja a lenyomott billentyű adatait
@@ -28,10 +58,12 @@ namespace proj
             // Eltünteti a kurzort
             Console.CursorVisible = false;
 
+            Console.WriteLine("Zene ajánló program");
+
             do
             {
                 // A kurzor pozíciójának visszállítása, hogy az előző szöveget felülírja
-                Console.SetCursorPosition(0, 1);
+                Console.SetCursorPosition(0, 2);
 
                 // A menüpontok kiíratása
                 for (int i = 0; i < menu.Length; i++)
@@ -49,7 +81,7 @@ namespace proj
                     }
                 }
 
-                // Nyíl inputra vár
+                // Nyíl inputra vár, és elmenti hogy melyik billentyűt nyomtuk le
                 keyInfo = Console.ReadKey();
 
                 // Megnézi, hogy melyik billentyűt nyomtuk le

@@ -11,14 +11,14 @@ namespace zene_proj
     {
         static void Main(string[] args)
         {
+            forras forras = new forras();
             menuControl menu = new menuControl();
 
-            int menuIndex = menu.Menu();
+            forras.feltolt();
 
-            Console.Clear();
+            
 
-            Console.WriteLine($"\nKiválsztott menüpont: {menuIndex+1}");
-
+            menu.returnToMenu();
 
             Console.ReadKey();
         }

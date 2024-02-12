@@ -13,10 +13,8 @@ namespace zene_proj
         {
             forras forras = new forras();
             menuControl menu = new menuControl();
-
-            forras.feltolt();
-
             
+            Console.SetWindowSize(120, 40);
 
             menu.returnToMenu();
 

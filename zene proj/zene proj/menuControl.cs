@@ -14,11 +14,16 @@ namespace proj
         {
             forras forras = new forras();
 
+            forras.feltolt();
+
             ConsoleKeyInfo keyInfo;
+
             keyInfo = Console.ReadKey();
+
             if (keyInfo.Key == ConsoleKey.Backspace)
             {
-                
+
+                Console.Clear();
 
                 int menuIndex = this.Menu();
 

@@ -12,10 +12,6 @@ namespace proj
     {
         public void returnToMenu()
         {
-            forras forras = new forras();
-
-            forras.feltolt();
-
             ConsoleKeyInfo keyInfo;
 
             keyInfo = Console.ReadKey();
@@ -38,6 +34,10 @@ namespace proj
                         break;
 
                     case 2:
+                        forras forras = new forras();
+
+                        forras.feltolt();
+
                         forras.kiir();
                         break;
                 }

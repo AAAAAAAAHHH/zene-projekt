@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="forras.cs" />
     <Compile Include="menuControl.cs" />
+    <Compile Include="music.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

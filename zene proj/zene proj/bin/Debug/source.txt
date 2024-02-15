@@ -1,0 +1,100 @@
+Adele;Hello;Pop;4:55
+Imagine Dragons;Radioactive;Rock;3:07
+Avicii;Wake Me Up;Elektronikus/Dance;4:09
+Miles Davis;So What;Jazz;9:22
+Kendrick Lamar;Alright;Hip Hop/Rap;3:39
+Fleet Foxes;White Winter Hymnal;Indie Folk;2:27
+Zedd ft. Foxes;Clarity;EDM;4:31
+B.B. King;The Thrill Is Gone;Blues;5:25
+Pyotr Ilyich Tchaikovsky;Hattyúk tava, Op. 20;Klasszikus;2:41
+The Killers;Mr. Brightside;Alternatív Rock;3:42
+Bob Marley & The Wailers;Three Little Birds;Reggae;3:00
+Pink Floyd;Comfortably Numb;Progresszív Rock;6:22
+Johnny Cash;Ring of Fire;Country;2:37
+Coldplay;Viva la Vida;Pop/Rock;4:02
+The Midnight;Sunset;Synthwave;5:07
+Paco de Lucía;Entre Dos Aguas;Flamenco;6:00
+Brian Eno;An Ending (Ascent);Ambient;4:24
+Beach House;Myth;Dream Pop;4:18
+João Gilberto & Stan Getz;The Girl from Ipanema;Bossa Nova;5:24
+Al Green;Let's Stay Together;R&B/Soul;3:19
+Bruno Mars;Uptown Funk;Pop/Funk;4:31
+Of Monsters and Men;Little Talks;Indie Pop;4:27
+Mumford & Sons;I Will Wait;Folk Rock;4:36
+Blackmill;Spirit of Life;Elektronikus/Chillstep;6:16
+Arcade Fire;Wake Up;Indie Rock;5:35
+CHVRCHES;The Mother We Share;Synth-pop;3:11
+Explosions in the Sky;Your Hand in Mine;Post-rock;8:17
+Nujabes;Aruarian Dance;Hip Hop/Jazz;4:10
+Tycho;A Walk;Ambient/Chillout;5:16
+Damian Marley;Welcome to Jamrock;Reggae Fusion;3:33
+Alt-J;Breezeblocks;Indie Electronic;3:47
+Erykah Badu;On & On;Neo-Soul;3:45
+Perturbator;Venger;Synthwave/Retro Electro;5:06
+Armin van Buuren;In and Out of Love (feat. Sharon den Adel);Trance;6:01
+Fela Kuti;Water No Get Enemy;Afrobeat;10:58
+Ed Sheeran;Photograph;Pop/Rock Ballada;4:19
+Aphex;TwinRhubarbAmbient;Techno;7:43
+Nobuo Uematsu;Aerith's Theme (Final Fantasy VII);Video Game Music;4:20
+Ott;Rogue Bagel;Psybient;7:30
+2 Unlimited;Get Ready for This;Eurodance;3:45
+Stevie Wonder;Superstition;Soul/Funk;4:26
+M83;Midnight City;Dream Pop/Indie Rock;4:04
+Disclosure ft. Sam Smith;Latch;House;4:16
+Tool;Lateralus;Progressive Metal;9:24
+A Day to Remember;All I Want;Post-Hardcore;3:22
+Shpongle;Divine Moments of Truth;Ambient Dub;10:20
+Lynyrd Skynyrd;Sweet Home Alabama;Southern Rock;4:45
+A-ha;Take On Me;Synth-pop/New Wave;3:47
+Leon Bridges;River;Indie Soul;4:01
+Ludovico Einaudi;Divenire;Klasszikus/Zen;7:05
+Red Hot Chili Peppers;Can't Stop;Funk/Rock;4:29
+Clannad;Theme from Harry's Game;Celtic Folk;2:31
+The Glitch Mob;Fortune Days;Electronic/Orchestral;4:08
+Pink Floyd;Astronomy Domine;Space Rock;4:10
+The Infamous Stringdusters;Fork in the Road;Bluegrass;3:29
+Portugal. The Man;Feel It Still;Alternative/Indie;2:43
+Antonio Carlos Jobim;Corcovado;Bossa Nova/Jazz;4:14
+Netsky;Memory Lane;Drum and Bass;4:33
+Edward Sharpe & The Magnetic Zeros;Home;Indie Pop/Folk;5:02
+Wolfgang Amadeus Mozart;Eine kleine Nachtmusik;Klasszikus;5:48
+The Lumineers;Ho Hey;Folk Rock;2:43
+Sublime;Santeria;Ska;3:03
+Depeche Mode;Enjoy the Silence;Darkwave;4:16
+Infected Mushroom;Becoming Insane;Psytrance;7:21
+Radiohead;Paranoid Android;Experimental Rock;6:23
+Ravi Shankar & George Harrison;Norwegian Wood (This Bird Has Flown);World Music;2:57
+Chick Corea Elektric Band;Got a Match?;Jazz Fusion;5:26
+Carbon Based Lifeforms;Photosynthesis;Space Ambient;6:42
+Tito Puente;Oye Como Va;Latin Jazz;4:30
+Godspeed You! Black Emperor;Mladic;Post-Rock;20:22
+Eluveitie;Inis Mona;Folk Metal;4:09
+The Strokes;Last Nite;Indie Rock;3:12
+Dick Dale and His Del-Tones;Misirlou;Surf Rock;2:16
+In Flames;Only for the Weak;Melodic Death Metal;4:55
+Anoushka Shankar & Karsh Kale;Pancham Se Gara;World Fusion;5:27
+Entheogenic;Pagan Dream Machine;Psybient/Downtempo;9:13
+Helloween;Eagle Fly Free;Speed Metal;5:09
+Elvenking;The Divided Heart;Celtic Metal;4:44
+Weather Report;Birdland;Jazz Rock/Fusion;5:57
+Lane 8 ft. RBBTS;Visions;Deep House;4:53
+Suicideboys;Paris;Alternative Hip Hop;2:14
+Suicideboys;New Chains, Same Shackles;Dark Ambient;2:19
+Suicideboys;Kill Yourself (Part III);Cloud Rap;2:28
+Suicideboys;O Pana!;Horrorcore;2:57
+Suicideboys;Champion of Death;Phonk;2:31
+Suicideboys;Low Key;Dark Trap;2:35
+Suicideboys;Leave Your Things Behind II;Phonk;2:45
+Suicideboys;Newport Reds;Dark Ambient;2:41
+Suicideboys;LTE;Horrorcore;2:43
+Suicideboys;Ultimate Suicide (ft. Denzel Curry);Cloud Rap;3:00
+Besomorph;Cradles;Electronic;3:29
+Queen;Bohemian Rhapsody;Rock;5:54
+Kendrick Lamar;HUMBLE.;Hip Hop;2:57
+Adele;Rolling in the Deep;Pop/Soul;3:49
+Daft Punk;Get Lucky (feat. Pharrell Williams);Funk/Disco;4:08
+Ed Sheeran;Shape of You;Pop;3:54
+Miles Davis;So What;Jazz;9:22
+Linkin Park;Numb;Alternative Rock;3:07
+Shakira;Waka Waka (This Time for Africa);Worldbeat/Pop;3:23
+Armin van Buuren;Blah Blah Blah;Trance;3:04

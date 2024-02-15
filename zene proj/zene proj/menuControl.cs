@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +10,36 @@ namespace proj
     internal class menuControl
 
     {
+        public void menuOptions()
+        {
+            Console.Clear();
+
+            int menuIndex = this.Menu();
+
+            Console.Clear();
+
+            switch (menuIndex)
+            {
+                case 0:
+                    break;
+
+                case 1:
+                    break;
+
+                case 2:
+                    forras forras = new forras();
+
+                    forras.feltolt();
+
+                    forras.kiir();
+                    break;
+
+                case 3:
+
+                    break;
+            }
+        }
+
         public void returnToMenu()
         {
             ConsoleKeyInfo keyInfo;
@@ -18,29 +48,7 @@ namespace proj
 
             if (keyInfo.Key == ConsoleKey.Backspace)
             {
-
-                Console.Clear();
-
-                int menuIndex = this.Menu();
-
-                Console.Clear();
-
-                switch (menuIndex)
-                {
-                    case 0:
-                        break;
-
-                    case 1:
-                        break;
-
-                    case 2:
-                        forras forras = new forras();
-
-                        forras.feltolt();
-
-                        forras.kiir();
-                        break;
-                }
+                this.menuOptions();
             }
 
         }
@@ -51,7 +59,8 @@ namespace proj
             {
                 "Zene ajánlás",
                 "Műsorlista ajánlás",
-                "Zenék megtekintése",
+                "Forrás megtekintése",
+                "Forrás bővítése"
             };
 
             // Ez a váltzó tárolja a lenyomott billentyű adatait

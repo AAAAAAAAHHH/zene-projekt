@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,19 +17,27 @@ namespace zene_proj
         List<string> eloado = new List<string>();
         List<string> cim = new List<string>();
         List<string> mufajok = new List<string>();
+        List<string> idotartam = new List<string>();
 
         public void feltolt()
         {
-            string[] file = File.ReadAllLines("zeneprojekt.txt");
+            string[] file = File.ReadAllLines("source.txt");
 
             for (int i = 0; i < file.Length; i++)
             {
                 string[] sor = file[i].Split(';');
-
+ 
                 eloado.Add(sor[0]);
                 cim.Add(sor[1]);
                 mufajok.Add(sor[2]);
+                idotartam.Add(sor[3]);
             }
+        }
+
+        public void bovit()
+        {
+            Console.Clear();
+            
         }
 
         public void kiir()
@@ -54,6 +62,16 @@ namespace zene_proj
                 }
             }
 
+            int maxMufaj = 0;
+
+            foreach (string item in mufajok)
+            {
+                if (item.Length > maxMufaj)
+                {
+                    maxMufaj = item.Length;
+                }
+            }
+
             for (int i = 0; i < eloado.Count; i++)
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
@@ -66,6 +84,10 @@ namespace zene_proj
                 Console.SetCursorPosition(maxEloado + maxCim + 4, i);
                 Console.ForegroundColor = ConsoleColor.Cyan;
                 Console.WriteLine($"{mufajok[i]}");
+
+                Console.SetCursorPosition(maxEloado + maxCim + maxMufaj + 6, i);
+                Console.ForegroundColor = ConsoleColor.Magenta;
+                Console.WriteLine($"{idotartam[i]}");
             }
 
             Console.ForegroundColor = ConsoleColor.White;

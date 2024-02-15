@@ -1,4 +1,4 @@
-﻿using proj;
+using proj;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,10 +11,11 @@ namespace zene_proj
     {
         static void Main(string[] args)
         {
-            forras forras = new forras();
             menuControl menu = new menuControl();
             
             Console.SetWindowSize(120, 40);
+
+            menu.menuOptions();
 
             menu.returnToMenu();
 
